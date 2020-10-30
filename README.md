@@ -1,2 +1,2 @@
 # oct30
-test repo for jenkins
+this is a test repo for jenkins
