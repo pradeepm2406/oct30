@@ -1,5 +1,5 @@
 def message = "Hello World"
-//A Message to be defined as a param for the current jobs
+//A Message to be defined as a param for the current jobs t
 def lowerCaseMessage = message.toLowerCase()
 def splitWords = message.split(" ")
 
