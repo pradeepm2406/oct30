@@ -1,3 +1,8 @@
+def message = "Hello World"
+//Message to be defined as param for the job
+def lowerCaseMessage = message.toLowerCase()
+def splitWords = message.split(" ")
+
 node(){
     stage("Hello World in lower Case"){
         
